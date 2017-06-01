@@ -6,10 +6,13 @@
 
 # 기존 관련 사례
 1. 열람실 좌석 현황 알림시스템
+
 ![PICTURE](https://github.com/KSH1234/proposal/blob/master/image/1.png)
 웹서비스 형태로 다산정보관의 열람실 좌석현황을 알려주는 시스템이다. 사용자가 남은좌석 중에 원하는 좌석을 선택하면 웹에서는 해당 좌석을 ‘사용 중‘이라 표시하여 다른 사용자가 열람실을 이용할 때 참고할수 있도록 도와준다.
 
+
 2. CARDET
+
 ![PICTURE](https://github.com/KSH1234/proposal/blob/master/image/2.png)
 CARDET 차량감지센서는 신기술인 Feedback Stabilizing 타입 자기 검지 방식을 사용하는 복합형 차량감
 지센서이며, 차량만 선별하여 감지하며 사람이나 동물 등에 반응하지 않는 타입의 차량감지센서이다.
